@@ -7,6 +7,8 @@ MENTOR: Neela Santhosh Kumar
 
 Project Overview: Basic Calculator in Java
 ![image](https://github.com/user-attachments/assets/2c60665c-73df-4d00-a1c4-42167fd01e3a)
+![image](https://github.com/user-attachments/assets/1f23fcc9-7892-467d-ad8a-54e48b73d59f)
+
 
 . Objective
 Primary Goal: To create a functional calculator that performs basic arithmetic operations based on user input.
